@@ -16,7 +16,7 @@
 - <b>Offensive Security</b>
   - [Enumerating w/NMAP](https://github.com/UVSasa/NMAP-Enumeration-Lab/blob/main/README.md)
 - <b>Defensive Security)</b>
-  - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Networking</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
