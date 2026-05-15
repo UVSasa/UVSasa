@@ -14,7 +14,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Offensive Security</b>
-  - [Enumerating w/NMAP](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Enumerating w/NMAP](https://github.com/UVSasa/NMAP-Enumeration-Lab/blob/main/README.md)
 - <b>Defensive Security)</b>
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Networking</b>
