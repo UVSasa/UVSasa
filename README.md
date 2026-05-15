@@ -16,6 +16,8 @@
 - <b>Offensive Security</b>
   - [Enumerating w/NMAP](https://github.com/UVSasa/NMAP-Enumeration-Lab/blob/main/README.md)
 - <b>Defensive Security)</b>
+  - [Splunk Investigations]
+  - [Malware Analysis]
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/UVSasa/Enumeration-Monitoring-Lab/)
 - <b>Networking</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
