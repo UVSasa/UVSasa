@@ -21,10 +21,9 @@
   - [Malware Analysis]
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/UVSasa/Enumeration-Monitoring-Lab/)
 - <b>Networking</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - Configuring [] on Cisco Topology
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Automation w/Python]
  
 - <b>Other</b>
   - [Wazuh Siem Setup](https://github.com/UVSasa/Wazuh-Siem)
