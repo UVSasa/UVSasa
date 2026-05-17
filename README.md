@@ -15,6 +15,7 @@
 
 - <b>Offensive Security</b>
   - [Enumerating w/NMAP](https://github.com/UVSasa/NMAP-Enumeration-Lab/blob/main/README.md)
+  - [Vulnerability Exploitation w/Metaspolit]
 - <b>Defensive Security)</b>
   - [Splunk Investigations]
   - [Malware Analysis]
