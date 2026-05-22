@@ -17,7 +17,7 @@
   - [Enumerating w/NMAP](https://github.com/UVSasa/NMAP-Enumeration-Lab/blob/main/README.md)
   - 
 - <b>Defensive Security)</b>
-  - [Splunk Investigations]
+  - [Splunk Investigations](https://github.com/UVSasa/Splunk-Investigations)
   - [Malware Analysis]
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/UVSasa/Enumeration-Monitoring-Lab/)
 - <b>Networking</b>
