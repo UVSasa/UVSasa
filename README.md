@@ -15,13 +15,13 @@
 
 - <b>Offensive Security</b>
   - [Enumerating w/NMAP](https://github.com/UVSasa/NMAP-Enumeration-Lab/blob/main/README.md)
-  - [Vulnerability Exploitation w/Metaspolit]
+  - 
 - <b>Defensive Security)</b>
   - [Splunk Investigations]
   - [Malware Analysis]
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/UVSasa/Enumeration-Monitoring-Lab/)
 - <b>Networking</b>
-  - Configuring [] on Cisco Topology
+  - Configuring [] on Cisco Topology(in progess)
 - <b>Python</b>
   - [Automation w/Python]
  
