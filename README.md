@@ -18,8 +18,8 @@
   - 
 - <b>Defensive Security</b>
   - [Splunk Investigations](https://github.com/UVSasa/Splunk-Investigations)
-  - [Malware Analysis]
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/UVSasa/Enumeration-Monitoring-Lab/)
+  - [Malware Analysis]
 - <b>Networking</b>
   - Configuring [] on Cisco Topology(in progess)
 - <b>Python</b>
