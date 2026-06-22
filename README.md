@@ -19,11 +19,11 @@
 - <b>Defensive Security</b>
   - [Splunk Investigations](https://github.com/UVSasa/Splunk-Investigations)
   - [Reconnaissance & Exfiltration Tool Monitoring](https://github.com/UVSasa/Enumeration-Monitoring-Lab/)
-  - [Malware Analysis]
+    
 - <b>Networking</b>
-  - Configuring [] on Cisco Topology(in progess)
+  - Configuring Cisco Topology(in progess)
 - <b>Python</b>
-  - [Automation w/Python]
+  - [Automation w/Python](in progress)
  
 - <b>Other</b>
   - [Wazuh Siem Setup](https://github.com/UVSasa/Wazuh-Siem)
